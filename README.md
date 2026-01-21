@@ -44,11 +44,11 @@ Seeders have been created for initial data population:
     php artisan db:seed
 
 # Default Credentials
- Admin:
-    Email: admin@example.com
+1. Admin:
+    username: admin@example.com
     Password: admin123
-User:
-    Email: user@example.com
+2. User:
+    username: user@example.com
     Password: user123
 
 # Usage
